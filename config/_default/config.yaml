@@ -5,7 +5,7 @@
 
 title: Debaditya Shome # Website name
 baseurl: 'https://debadityashome.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Debaditya Shome' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
