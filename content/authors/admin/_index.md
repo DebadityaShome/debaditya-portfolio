@@ -29,9 +29,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.Tech in Electronics and Telecommunication (Grade = 85.1 %)
+  - course: B.Tech in Electronics and Telecommunication
     institution: KIIT University
-    year: 2022
+    year: 2018 to 2022
+    grade: 85.1 %
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
