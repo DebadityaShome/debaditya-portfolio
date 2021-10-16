@@ -80,7 +80,7 @@ experience:
   - title: Data Scientist
     company: Brand Love Intelligence
     company_url: https://brandloveintel.com/
-    company-logo: org-x
+    company_logo: bli-logo
     location: Assen, Netherlands
     date_start: '2021-04-01'
     date_end: ''
@@ -97,7 +97,7 @@ experience:
   - title: Lead Machine learning Engineer
     company: Omdena
     company_url: https://omdena.com/
-    company-logo: org-gc
+    company_logo: logo-omdena
     location: California, USA
     date_start: '2020-09-10'
     date_end: '2021-04-01'
@@ -105,7 +105,21 @@ experience:
       Overview:
       
       * Collaborated with a team of 48 while working with our client, World Resources Institute (https://www.wri.org/) on a project leveraging NLP to find geographical locations with climate hazards and potential gaps for minimizing climate change impacts across the globe. Deployed a dashboard designed with Streamlit for easy inference.
-      * Led a team of 48 for building the data processing and machine learning backend for a Dutch client’s market intelligence product. **Got a full-time offer from the client due to extraordinary contributions in the project**.
+      * Led a team of 48 for building the data processing and machine learning backend for a Dutch client's market intelligence product. **Got a full-time offer from the client due to extraordinary contributions in the project**.
+  
+  - title: Product and Engineering intern
+    company: HighRadius
+    company_url: https://www.highradius.com/
+    company-logo: hrc-logo
+    location: Odisha, India
+    date_start: '2021-01-07'
+    date_end: '2021-03-17'
+    description: |2-
+      Overview: 
+
+      * Developed a full stack web-based invoice management applicatin following an end-to-end Data science product development lifecycle guided by mentors.
+      * Responsibilities included identifying appropriate user requirements, designing a great user experience and building appropriate data pipelines and machine learning models along with relevant UI components and backend design.
+      * Developed a state-of-the-art payment prediction system using XGboost regression, with a root-mean-squared error of 0.1 on 5-fold cross validation.
 
 design:
   columns: '2'
