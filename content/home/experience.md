@@ -80,7 +80,7 @@ experience:
   - title: Data Scientist
     company: Brand Love Intelligence
     company_url: https://brandloveintel.com/
-    company-logo: bli-logo
+    company-logo: org-x
     location: Assen, Netherlands
     date_start: '2021-04-01'
     date_end: ''
@@ -92,11 +92,12 @@ experience:
       * Projects include Tweet based emotion recognition API, Big-5 personality classication API, Facial expression recognition, Receptive audience recommendation system.
       * Reduced the AWS costs by 60% by shifting the backend to a serverless architecture with multiple Lambda functions, DynamoDB, Timestream and S3.
       * Single handedly created end-to-end ML pipelines with all models beyond 95% accuracy along with efficient monitoring of out of training distribution inference events.
+      * **Currently working only as a part-time maintainer of the AWS and data science backend of Relevense from September 2021, discontinued being full-time for exploring roles focused particularly on Computer Vision research**.
     
   - title: Lead Machine learning Engineer
     company: Omdena
     company_url: https://omdena.com/
-    company-logo: logo-omdena
+    company-logo: org-gc
     location: California, USA
     date_start: '2020-09-10'
     date_end: '2021-04-01'
@@ -105,7 +106,7 @@ experience:
       
       * Collaborated with a team of 48 while working with our client, World Resources Institute (https://www.wri.org/) on a project leveraging NLP to find geographical locations with climate hazards and potential gaps for minimizing climate change impacts across the globe. Deployed a dashboard designed with Streamlit for easy inference.
       * Led a team of 48 for building the data processing and machine learning backend for a Dutch client’s market intelligence product. **Got a full-time offer from the client due to extraordinary contributions in the project**.
-      
+
 design:
   columns: '2'
 ---
