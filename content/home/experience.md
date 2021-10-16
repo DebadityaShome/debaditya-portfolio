@@ -95,10 +95,6 @@ experience:
         * Reduced the AWS costs by 60% by shifting the backend to a serverless
           architecture with multiple Lambda functions, DynamoDB, Timestream and S3.
         * Single handedly created end-to-end ML pipelines with all models     beyond 95% accuracy along with efficient monitoring of out of training distribution inference events.
-    
-
-
-
 
 design:
   columns: '2'
