@@ -1,5 +1,5 @@
 ---
-title: "FedAffect: Few-Shot Federated Learning for Facial Expression Recognition"
+title: "ConOffense: Multi-modal multitask Contrastive learning for offensive content identification"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,19 +12,21 @@ date: "2021-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops*
-publication_short: In *ICCVW*
+publication: Under review at *MMBD workshop, IEEE Big Data 2021*
+publication_short: Under review at *MMBD 21*
 
-abstract: Annotation of large-scale facial expression datasets in the real world is a major challenge because of privacy concerns of the individuals due to which traditional supervised learning approaches won't scale. Moreover, training models on large curated datasets often leads to dataset bias which reduces generalizability for real world use. Federated learning is a recent paradigm for training models collaboratively with decentralized private data on user devices. **In this paper, we propose a few-shot federated learning framework which utilizes few samples of labeled private facial expression data to train local models in each training round and aggregates all the local model weights in the central server to get a globally optimal model. In addition, as the user devices are a large source of unlabeled data, we design a federated learning based self-supervised method to disjointly update the feature extractor network on unlabeled private facial data in order to learn robust and diverse face representations.** Experimental results by testing the globally trained model on benchmark datasets (FER-2013 and FERG) show comparable performance with state of the art centralized approaches. To the best of author's knowledge, this is the first work on few-shot federated learning for facial expression recognition.
+abstract: Hateful or offensive content has been increasingly common on social media platforms in recent years, and the problem is now widespread. There is a pressing need for effective automatic solutions for detecting such content, especially due to the gigantic size of social media data. Although significant progress has been made in the automated identification of offensive content, most of the focus has been on only using
+textual information. It can be easily noticed that with the rise in visual information shared on these platforms, it is quite common to have hateful content on images rather than in the associated text. Due to this, present day unimodal textbased methods won’t be able to cope up with the multimodal hateful content. In this paper, we propose a novel multimodal neural network powered by contrastive learning for identifying offensive posts on social media utilizing both visual and textual information. We design the text and visual encoders with a lightweight architecture to make the solution efficient for real
+world use. Evaluation on the MMHS150K dataset shows state-of-the-art performance of 82.6 percent test accuracy, making an improvement of approximately +14.1 percent accuracy over the previous best performing benchmark model on the dataset.
 
 tags: []
 
@@ -36,14 +38,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openaccess.thecvf.com/content/ICCV2021W/HTCV/papers/Shome_FedAffect_Few-Shot_Federated_Learning_for_Facial_Expression_Recognition_ICCVW_2021_paper.pdf'
+url_pdf: 'ConOffense.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'poster.pdf'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://drive.google.com/file/d/17YHCE74ppnvv6pFa3GvI5nKowtlyvMD3/view?usp=sharing'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -57,8 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

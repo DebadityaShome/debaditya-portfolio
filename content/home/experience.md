@@ -47,7 +47,7 @@ experience:
         Overview:
 
         * Collaborating with a PhD student for a project focused on modeling continuous conformational changes in cryo-ET images with Unsupervised representation learning under the supervision of Dr. Min Xu.
-        * Completed an extensive literature review report.
+        * Presently working on the initial literature review report.
 
   - title: MITACS Globalink Research intern
     company: MITACS
