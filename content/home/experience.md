@@ -62,7 +62,7 @@ experience:
 
       * Leading the project on variable-length synthetic handwriting image generation using Generative Adversarial networks.
       * Academia-Industry colloraboration with a 6-member team consisting of myself, another student, Prof. Vimal Srivastava, Prof. Manoranjan Kumar and two mentors from Samsung Research, Bangalore.
-      * Generated synthetic data is being utilized to train better handwritten text recognition (HTR) models for HTR feature in Samsung smartphones.
+      * Generated synthetic data is being utilized to train better handwritten text recognition (HTR) models for HTR feature in Samsung smartphone's OCR system.
 
 
 
