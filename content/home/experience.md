@@ -46,7 +46,7 @@ experience:
     description: |2-
         Overview:
 
-        * Collaborating with a PhD student for a project focused on modeling continuous conformational changes in cryo-ET images with Self-supervised / Unsupervised representation learning.
+        * Collaborating with a PhD student for a project focused on modeling continuous conformational changes in cryo-ET images with Unsupervised representation learning.
         * Completed an extensive literature review report.
 
   - title: MITACS Globalink Research intern
