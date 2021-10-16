@@ -6,6 +6,13 @@ title: "COVID-Transformer: Interpretable COVID-19 Detection using Vision Transfo
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- T. Kar
+- SN Mohanty
+- Prayag Tiwari
+- Khan Muhammad
+- Abdullah AlTameem
+- Yazhou Zhang
+- Abdul Khader Jilani Saudagar
 
 date: "2021-09-30T00:00:00Z"
 doi: ""
