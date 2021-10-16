@@ -60,7 +60,7 @@ experience:
       Overview:
       
       * Conducted cross-disciplinary research at the intersection of Deep learning and wireless communications, under the supervision of Dr. Omer Waqar from Thompson River's University, Canada. 
-      * Authored a comprehensive review paper addressing a gap in literature on the bi-directional interplay of Federated learning and wireless communications, under review at **Transactions on Emerging Telecommunications Technologies**.
+      * Authored a comprehensive review paper addressing a gap in literature on the bi-directional interplay of Federated learning and wireless communications, under review at the journal - **Transactions on Emerging Telecommunications Technologies**.
       * Designed a novel unsupervised learning algorithm for energy and power optimization in UAV networks, manuscript under preparation.
   
   - title: Research intern (PRISM program)
@@ -117,7 +117,7 @@ experience:
     description: |2-
       Overview: 
 
-      * Developed a full stack web-based invoice management applicatin following an end-to-end Data science product development lifecycle guided by mentors.
+      * Developed a full stack web-based invoice management application following an end-to-end Data science product development lifecycle guided by mentors.
       * Responsibilities included identifying appropriate user requirements, designing a great user experience and building appropriate data pipelines and machine learning models along with relevant UI components and backend design.
       * Developed a state-of-the-art payment prediction system using XGboost regression, with a root-mean-squared error of 0.1 on 5-fold cross validation.
 
