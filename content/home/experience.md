@@ -46,7 +46,7 @@ experience:
     description: |2-
         Overview:
 
-        * Collaborating with a PhD student for a project focused on modeling continuous conformational changes in cryo-ET images with Unsupervised representation learning.
+        * Collaborating with a PhD student for a project focused on modeling continuous conformational changes in cryo-ET images with Unsupervised representation learning under the supervision of Dr. Min Xu.
         * Completed an extensive literature review report.
 
   - title: MITACS Globalink Research intern
@@ -92,7 +92,20 @@ experience:
       * Projects include Tweet based emotion recognition API, Big-5 personality classication API, Facial expression recognition, Receptive audience recommendation system.
       * Reduced the AWS costs by 60% by shifting the backend to a serverless architecture with multiple Lambda functions, DynamoDB, Timestream and S3.
       * Single handedly created end-to-end ML pipelines with all models beyond 95% accuracy along with efficient monitoring of out of training distribution inference events.
-
+    
+  - title: Lead Machine learning Engineer
+    company: Omdena
+    company_url: https://omdena.com/
+    company-logo: logo-omdena
+    location: California, USA
+    date_start: '2020-09-10'
+    date_end: '2021-04-01'
+    description: |2-
+      Overview:
+      
+      * Collaborated with a team of 48 while working with our client, World Resources Institute (https://www.wri.org/) on a project leveraging NLP to find geographical locations with climate hazards and potential gaps for minimizing climate change impacts across the globe. Deployed a dashboard designed with Streamlit for easy inference.
+      * Led a team of 48 for building the data processing and machine learning backend for a Dutch client’s market intelligence product. **Got a full-time offer from the client due to extraordinary contributions in the project**.
+      
 design:
   columns: '2'
 ---

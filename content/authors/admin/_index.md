@@ -14,13 +14,17 @@ organizations:
   url: https://kiit.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Self-supervised learning, Generative learning, Computer Vision and it's interplay with different modalities of data such as natural language and audio.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
+- Computer Vision
+- Self-supervised representation learning
+- Generative models
+- Multimodal/Cross-modal learning
 - Computational Linguistics
-- Information Retrieval
+- Data Science
 
 # Education to show in About widget
 education:
