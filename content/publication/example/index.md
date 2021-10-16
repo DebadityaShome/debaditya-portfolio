@@ -39,16 +39,16 @@ featured: true
 url_pdf: 'https://openaccess.thecvf.com/content/ICCV2021W/HTCV/papers/Shome_FedAffect_Few-Shot_Federated_Learning_for_Facial_Expression_Recognition_ICCVW_2021_paper.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'poster.pdf'
 url_project: ''
-url_slides: 'https://drive.google.com/file/d/17YHCE74ppnvv6pFa3GvI5nKowtlyvMD3/view?usp=sharing'
+url_slides: ''
 url_source: ''
 url_video: 'https://drive.google.com/file/d/17YHCE74ppnvv6pFa3GvI5nKowtlyvMD3/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -65,7 +65,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
