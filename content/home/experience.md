@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
         
-  - title: 
+  - title: MITACS Globalink Research intern
     company: MITACS
     company_url: 'https://www.mitacs.ca/en/programs/globalink/globalink-research-internship'
     company_logo: mitacs-logo
