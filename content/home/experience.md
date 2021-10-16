@@ -110,7 +110,7 @@ experience:
   - title: Product and Engineering intern
     company: HighRadius
     company_url: https://www.highradius.com/
-    company-logo: hrc-logo
+    company_logo: hrc-logo
     location: Odisha, India
     date_start: '2021-01-07'
     date_end: '2021-03-17'
