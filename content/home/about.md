@@ -7,4 +7,5 @@ title: Biography
 active: true
 author: admin
 ---
-Debaditya is a final-year undergraduate student from India, with research and industrial experience in data science / deep learning. He is particularly interested in applications of self-supervised, multimodal, generative, and representation learning with application to computer vision.
+Debaditya Shome is a final year undergraduate with extensive research experience in the field of AI. His present research interests include Self-supervised learning, Generative learning, and Cross-modal learning with applications to Computer Vision. 
+He is currently working at SHL research as an AI intern, building deep learning solutions to impact millions of users across the globe. 
