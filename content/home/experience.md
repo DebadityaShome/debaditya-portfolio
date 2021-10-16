@@ -107,6 +107,21 @@ experience:
       * Collaborated with a team of 48 while working with our client, World Resources Institute (https://www.wri.org/) on a project leveraging NLP to find geographical locations with climate hazards and potential gaps for minimizing climate change impacts across the globe. Deployed a dashboard designed with Streamlit for easy inference.
       * Led a team of 48 for building the data processing and machine learning backend for a Dutch client's market intelligence product. **Got a full-time offer from the client due to extraordinary contributions in the project**.
   
+  - title: Research intern (volunteer)
+    company: Emory University
+    company_url: https://sites.google.com/stanford.edu/imon-banerjee-stanford/home
+    company_logo: emory-logo
+    location: Atlanta, USA
+    date_start: '2021-02-01'
+    date_end: '2021-05-01'
+    description: |2-
+      Overview:
+
+      * Built an end-to-end NLP pipeline for Multi-document abstractive summarization
+        of Radiology reports of COVID-19 patients
+      * Trained longformer and BERT models on a Slurm multi-GPU cluster in an HIPAA protected server.
+      * Achieved a ROUGE-1 score of 0.410 on test dataset.
+
   - title: Product and Engineering intern
     company: HighRadius
     company_url: https://www.highradius.com/
