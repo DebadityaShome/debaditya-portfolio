@@ -77,6 +77,22 @@ experience:
       * Academia-Industry colloraboration with a 6-member team consisting of myself, another student, Prof. Vimal Srivastava, Prof. Manoranjan Kumar and two mentors from Samsung Research, Bangalore.
       * Generated synthetic data is being utilized to train better handwritten text recognition (HTR) models for HTR feature in Samsung smartphone's OCR system.
 
+  - title: Data Scientist
+    company: Brand Love Intelligence
+    company_url: https://brandloveintel.com/
+    company-logo: bli-logo
+    location: Assen, Netherlands
+    date_start: '2021-04-01'
+    date_end: ''
+    description: |2-
+      Overview:
+
+      * Focused on building full stack data science pipeline from data collection to model deployment for powering the AI engine of Relevense
+      (https://www.relevense.com/), a Flagship market intelligence product co-funded with grants of the **Europees Fonds voor Regionale Ontwikkeling (EFRO)** and **Samenwerkingsverband Noord Nederland (SNN)**.
+      * Projects include Tweet based emotion recognition API, Big-5 personality classication API, Facial expression recognition, Receptive audience recommendation system.
+      * Reduced the AWS costs by 60% by shifting the backend to a serverless architecture with multiple Lambda functions, DynamoDB, Timestream and S3.
+      * Single handedly created end-to-end ML pipelines with all models beyond 95% accuracy along with efficient monitoring of out of training distribution inference events.
+
 design:
   columns: '2'
 ---
