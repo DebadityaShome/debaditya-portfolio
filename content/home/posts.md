@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Recent Posts
-subtitle: 'Coming soon, blog under construction !'
+subtitle: 'Coming soon, blog under construction!'
 
 content:
   # Page type to display. E.g. post, talk, publication...
