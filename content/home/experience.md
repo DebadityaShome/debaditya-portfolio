@@ -35,19 +35,6 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-  
-  - title: Research intern
-    company: Xu Lab, Carnegie Mellon University
-    company_url: 'https://xulabs.github.io/'
-    company_logo: cmu-logo
-    location: Pennsylvania, USA
-    date_start: '2021-09-01'
-    date_end: ''
-    description: |2-
-        Overview:
-
-        * Collaborating with a PhD student for a project focused on modeling continuous conformational changes in cryo-ET images with Unsupervised representation learning.
-        * Completed an extensive literature review report.
 
   - title: MITACS Globalink Research intern
     company: MITACS
@@ -87,7 +74,7 @@ experience:
     description: |2-
       Overview:
 
-      * Focused on building full stack data science pipeline from data collection to model deployment for powering the AI engine of Relevense™
+      * Focused on building full stack data science pipeline from data collection to model deployment for powering the AI engine of Relevense
       (https://www.relevense.com/), a Flagship market intelligence product co-funded with grants of the 'Europees Fonds voor Regionale Ontwikkeling (EFRO)' and 'Samenwerkingsverband Noord Nederland (SNN)'.
       * **Projects:** Tweet based emotion recognition API, Big-5 personality classication API, Facial expression recognition, Receptive audience recommendation system.
       * Reduced the AWS costs by 60% by shifting the backend to a serverless architecture with multiple Lambda functions, DynamoDB, Timestream and S3.
