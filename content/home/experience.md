@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: AI intern (Research)
     company: SHL
-    company_url: ''
+    company_url: 'https://www.shl.com/about/'
     company_logo: logo-shl
     location: India
     date_start: '2021-10-19'
