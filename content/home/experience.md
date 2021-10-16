@@ -43,7 +43,9 @@ experience:
     location: British Columbia, Canada
     date_start: '2021-05-17'
     date_end: '2021-08-16'
-    description: Conducted cross-disciplinary research at the intersection of Federated learning and wireless communications under the supervision of Dr. Omer Waqar from Thompson River's University. 
+    description: 
+    * Conducted cross-disciplinary research at the intersection of Federated learning and wireless communications under the supervision of Dr. Omer Waqar from Thompson River's University. 
+    * Authored a comprehensive review paper addressing a gap in literature on the biredirectional interplay of Federated learning and wireless communications, under review at **Transactions on Emerging Telecommunications Technologies**
 
 design:
   columns: '2'
