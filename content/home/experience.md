@@ -37,13 +37,13 @@ experience:
         * Deploying
         
   - title: 
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company: MITACS
+    company_url: 'https://www.mitacs.ca/en/programs/globalink/globalink-research-internship'
+    company_logo: mitacs-logo
+    location: British Columbia, Canada
+    date_start: '2021-05-17'
+    date_end: '2021-08-16'
+    description: Conducted cross-disciplinary research at the intersection of Federated learning and wireless communications under the supervision of Dr. Omer Waqar from Thompson River's University. 
 
 design:
   columns: '2'
