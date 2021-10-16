@@ -45,7 +45,7 @@ experience:
     date_end: '2021-08-16'
     description: 
     * Conducted cross-disciplinary research at the intersection of Federated learning and wireless communications under the supervision of Dr. Omer Waqar from Thompson River's University. 
-    * Authored a comprehensive review paper addressing a gap in literature on the biredirectional interplay of Federated learning and wireless communications, under review at **Transactions on Emerging Telecommunications Technologies**
+    * Authored a comprehensive review paper addressing a gap in literature on the biredirectional interplay of Federated learning and wireless communications, under review at <b> Transactions on Emerging Telecommunications Technologies </b>
 
 design:
   columns: '2'
