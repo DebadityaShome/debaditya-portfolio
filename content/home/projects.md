@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: ""
+widget: "" #portfolio
 
 # This file represents a page section.
 headless: true
@@ -10,7 +10,7 @@ headless: true
 weight: 55
 
 title: Projects
-subtitle: ''
+subtitle: 'Coming soon, website under construction !'
 
 content:
   # Page type to display. E.g. project.

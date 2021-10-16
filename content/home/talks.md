@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: "" #pages
 
 # This file represents a page section.
 headless: true
@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: 'Recent & Upcoming Talks'
-subtitle:
+subtitle: 'Coming soon, website under construction !'
 
 content:
   # Page type to display. E.g. post, event, publication...
