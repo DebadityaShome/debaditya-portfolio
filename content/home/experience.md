@@ -107,7 +107,7 @@ experience:
       * Collaborated with a team of 48 while working with our client, World Resources Institute (https://www.wri.org/) on a project leveraging NLP to find geographical locations with climate hazards and potential gaps for minimizing climate change impacts across the globe. Deployed a dashboard designed with Streamlit for easy inference.
       * Led a team of 48 for building the data processing and machine learning backend for a Dutch client's market intelligence product. **Got a full-time offer from the client due to extraordinary contributions in the project**.
   
-  - title: Research intern (volunteer)
+  - title: Research intern
     company: Emory University
     company_url: https://sites.google.com/stanford.edu/imon-banerjee-stanford/home
     company_logo: emory-logo

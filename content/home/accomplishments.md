@@ -23,29 +23,63 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: 
+https://www.coursera.org/account/accomplishments/specialization/certificate/9WY24JVUX4Z5
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2020-03-25"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Deep learning specialization
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
+https://www.coursera.org/account/accomplishments/specialization/certificate/JHM9NMA6UU6R
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2020-04-25"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: DeepLearning.AI TensorFlow Developer Specialization
+  url: ""
+
+- certificate_url: 
+https://www.coursera.org/account/accomplishments/specialization/certificate/E6VSSVNJPENC
+  date_end: ""
+  date_start: "2019-10-25"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: IBM Data Science Specialization
+  url: ""
+
+- certificate_url: 
+https://www.coursera.org/account/accomplishments/certificate/S4PYESDUTDEU
+  date_end: ""
+  date_start: "2020-05-25"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Introduction to Applied Machine Learning
+  url: ""
+
+- certificate_url: 
+https://www.coursera.org/account/accomplishments/certificate/8NAXFFZPCKA5
+  date_end: ""
+  date_start: "2019-12-25"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: An Introduction to Practical Deep Learning
+  url: ""
+  
+- certificate_url: 
+https://www.coursera.org/account/accomplishments/certificate/KQF2WV7W5QH9
+  date_end: ""
+  date_start: "2019-11-25"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Operating Systems and You; Becoming a Power User
   url: ""
 
 design:
