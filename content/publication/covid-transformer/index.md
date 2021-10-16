@@ -7,7 +7,7 @@ title: "COVID-Transformer: Interpretable COVID-19 Detection using Vision Transfo
 authors:
 - admin
 
-date: "2021-07-20T00:00:00Z"
+date: "2021-09-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'mdpi_revised_15october.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
