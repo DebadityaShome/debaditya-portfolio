@@ -26,7 +26,7 @@ experience:
     company: SHL
     company_url: 'https://www.shl.com/about/'
     company_logo: logo-shl
-    location: India
+    location: Gurgaon, India
     date_start: '2021-10-19'
     date_end: ''
     description: |2-
@@ -46,8 +46,28 @@ experience:
     description: |2-
       Overview:
       
-      * Conducted cross-disciplinary research at the intersection of Federated learning and wireless communications under the supervision of Dr. Omer Waqar from Thompson River's University. 
-      * Authored a comprehensive review paper addressing a gap in literature on the biredirectional interplay of Federated learning and wireless communications, under review at **Transactions on Emerging Telecommunications Technologies**.
+      * Conducted cross-disciplinary research at the intersection of Deep learning and wireless communications, under the supervision of Dr. Omer Waqar from Thompson River's University, Canada. 
+      * Authored a comprehensive review paper addressing a gap in literature on the bi-directional interplay of Federated learning and wireless communications, under review at **Transactions on Emerging Telecommunications Technologies**.
+      * Designed a novel unsupervised learning algorithm for energy and power optimization in UAV networks, manuscript under preparation.
+  
+  - title: Research intern (PRISM program)
+    company: Samsung Research
+    company_url: https://www.samsungprism.com/
+    company_logo: sr-logo
+    location: Bangalore, India
+    date_start: '2021-04-14'
+    date_end: '2021-10-15'
+    description: |2-
+      Overview:
+
+      * Leading the project on variable-length synthetic handwriting image generation using Generative Adversarial networks.
+      * Academia-Industry colloraboration with a 6-member team consisting of myself, another student, Prof. Vimal Srivastava, Prof. Manoranjan Kumar and two mentors from Samsung Research, Bangalore.
+      * Generated synthetic data is being utilized to train better handwritten text recognition (HTR) models for HTR feature in Samsung smartphones.
+
+
+
+
+
 
 design:
   columns: '2'
