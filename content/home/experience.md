@@ -51,7 +51,7 @@ experience:
 
   - title: MITACS Globalink Research intern
     company: MITACS
-    company_url: 'https://www.mitacs.ca/en/programs/globalink/globalink-research-internship'
+    company_url: 'https://www.mitacs.ca/en/programs/globalink globalink-research-internship'
     company_logo: mitacs-logo
     location: British Columbia, Canada
     date_start: '2021-05-17'
@@ -88,13 +88,10 @@ experience:
       Overview:
 
       * Focused on building full stack data science pipeline from data collection to model deployment for powering the AI engine of Relevense™
-      (https://www.relevense.com/), a Flagship market intelligence product co-funded with grants of the 'Europees Fonds voor Regionale Ontwikkeling (EFRO)' & 'Samenwerkingsverband Noord Nederland (SNN)'.
-      * Projects: Tweet based emotion recognition API, Big-5 personality classication API, Facial expression recognition, Receptive audience recommendation system.
-      
-      Achievements:
-        * Reduced the AWS costs by 60% by shifting the backend to a serverless
-          architecture with multiple Lambda functions, DynamoDB, Timestream and S3.
-        * Single handedly created end-to-end ML pipelines with all models     beyond 95% accuracy along with efficient monitoring of out of training distribution inference events.
+      (https://www.relevense.com/), a Flagship market intelligence product co-funded with grants of the 'Europees Fonds voor Regionale Ontwikkeling (EFRO)' and 'Samenwerkingsverband Noord Nederland (SNN)'.
+      * **Projects:** Tweet based emotion recognition API, Big-5 personality classication API, Facial expression recognition, Receptive audience recommendation system.
+      * Reduced the AWS costs by 60% by shifting the backend to a serverless architecture with multiple Lambda functions, DynamoDB, Timestream and S3.
+      * Single handedly created end-to-end ML pipelines with all models     beyond 95% accuracy along with efficient monitoring of out of training distribution inference events.
 
 design:
   columns: '2'
