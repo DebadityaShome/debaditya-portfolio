@@ -6,6 +6,7 @@ title: "Deep Q-learning for 5G network slicing with diverse resource stipulation
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Ankit Kudeshia
 
 date: "2021-04-14T00:00:00Z"
 doi: ""
