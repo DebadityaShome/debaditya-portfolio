@@ -104,7 +104,7 @@ experience:
     description: |2-
       Overview:
       
-      * Collaborated with a team of 48 while working with our client, World Resources Institute (https://www.wri.org/) on a project leveraging NLP to find geographical locations with climate hazards and potential gaps for minimizing climate change impacts across the globe. Deployed a dashboard designed with Streamlit for easy inference. Technical blog on the project: https://omdena.com/blog climate-change-impacts/ .
+      * Collaborated with a team of 48 while working with our client, World Resources Institute (https://www.wri.org/) on a project leveraging NLP to find geographical locations with climate hazards and potential gaps for minimizing climate change impacts across the globe. Deployed a dashboard designed with Streamlit for easy inference. Technical blog on the project: https://omdena.com/blog/climate-change-impacts/ .
       * Led a team of 48 for building the data processing and machine learning backend for a Dutch client's market intelligence product. **Got a full-time offer from the client due to extraordinary contributions in the project**.
   
   - title: Research intern
