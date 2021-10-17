@@ -81,7 +81,7 @@ item:
   date_start: "2021-12-01"
   description: 
   organization: MITx
-  organization_url: https://openlearning.mit.edu/courses-programs/mitx-courses
+  organization_url: https://mitxonline.mit.edu/?utm_source=open-learning-website&utm_medium=site-link-mitx&utm_campaign=mitx-online
   title: "6.86x: Machine Learning with Python-From Linear Models to Deep Learning"
   url: 
 
