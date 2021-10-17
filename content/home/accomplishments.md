@@ -78,12 +78,31 @@ item:
 
 - certificate_url: https://courses.edx.org/certificates/c23c67760b9041f58da7e59dd57d4601
   date_end: ""
-  date_start: "2021-12-01"
+  date_start: "2020-12-01"
   description: 
-  organization: MITx
-  organization_url: https://mitxonline.mit.edu/?utm_source=open-learning-website&utm_medium=site-link-mitx&utm_campaign=mitx-online
+  organization: edX
+  organization_url: https://micromasters.mit.edu/ds/
   title: "6.86x: Machine Learning with Python-From Linear Models to Deep Learning"
   url: 
+
+- certificate_url: https://courses.edx.org/certificates/e01240e926e8419f88907d005b5b3e8d
+  date_end: ""
+  date_start: "2020-09-20"
+  description: 
+  organization: edX
+  organization_url: https://micromasters.mit.edu/ds/
+  title: "18.6501x: Fundamentals of Statistics"
+  url:
+
+- certificate_url: https://confirm.udacity.com/9SDCHPHL
+  date_end: ""
+  date_start: "2020-12-19"
+  description: 
+  organization: Udacity
+  organization_url: https://www.udacity.com/
+  title: "Computer Vision nanodegree"
+  url:
+
 
 
 
