@@ -28,26 +28,26 @@ experience:
     company_logo: logo-shl
     location: Gurgaon, India
     date_start: '2021-10-19'
-    date_end: ''
+    date_end: '2022-04-19'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Overview: 
+
+        * Presently working on few-shot prompt learning on spoken content, for SHL's Interview Intelligence platform.
+        * Developed algorithms for repititive phrase, filler phrase, self introduction and organization introduction detection.
+
 
   - title: Research intern
     company: Xu Lab, Carnegie Mellon University
     company_url: 'https://xulabs.github.io/'
     company_logo: cmu-logo
     location: Pennsylvania, USA
-    date_start: '2021-09-01'
-    date_end: ''
+    date_start: '2021-09-17'
+    date_end: '02-11-21'
     description: |2-
         Overview:
 
-        * Collaborating with a PhD student for a project focused on modeling continuous conformational changes in cryo-ET images with Unsupervised representation learning under the supervision of Dr. Min Xu.
-        * Presently working on the initial literature review report.
+        * Collaborated with a PhD student for a project focused on modeling continuous conformational changes in cryo-ET images with Unsupervised representation learning under the supervision of Dr. Min Xu.
+        * Conducted a comprehensive literature review and baseline method implementations.
 
   - title: MITACS Globalink Research intern
     company: MITACS
@@ -60,8 +60,8 @@ experience:
       Overview:
       
       * Conducted cross-disciplinary research at the intersection of Deep learning and wireless communications, under the supervision of Dr. Omer Waqar from Thompson River's University, Canada. 
-      * Authored a comprehensive review paper addressing a gap in literature on the bi-directional interplay of Federated learning and wireless communications, under review at the journal - **Transactions on Emerging Telecommunications Technologies**.
-      * Designed a novel unsupervised learning algorithm for energy and power optimization in UAV networks, manuscript under preparation.
+      * Authored a comprehensive review paper addressing a gap in literature on the bi-directional interplay of Federated learning and wireless communications, accepted at the journal - **Transactions on Emerging Telecommunications Technologies**.
+      * Designed a novel unsupervised learning algorithm for energy and power optimization in UAV networks. The paper was presented at IEEE UEMCON 2021, and recieved the *Best Presenter award*.
   
   - title: Research intern (PRISM program)
     company: Samsung Research
@@ -77,7 +77,7 @@ experience:
       * Academia-Industry colloraboration with a 6-member team consisting of myself, another student, Prof. Vimal Srivastava, Prof. Manoranjan Kumar and two mentors from Samsung Research, Bangalore.
       * Generated synthetic data is being utilized to train better handwritten text recognition (HTR) models for HTR feature in Samsung smartphone's OCR system.
 
-  - title: Data Scientist
+  - title: Lead Data Scientist
     company: Brand Love Intelligence
     company_url: https://brandloveintel.com/
     company_logo: bli-logo
@@ -92,7 +92,6 @@ experience:
       * Projects include Tweet based emotion recognition API, Big-5 personality classication API, Facial expression recognition, Receptive audience recommendation system.
       * Reduced the AWS costs by 60% by shifting the backend to a serverless architecture with multiple Lambda functions, DynamoDB, Timestream and S3.
       * Single handedly created end-to-end ML pipelines with all models beyond 95% accuracy along with efficient monitoring of out of training distribution inference events.
-      * **Currently working only as a part-time maintainer of the AWS and data science backend of Relevense from September 2021, discontinued being full-time for exploring roles focused particularly on Computer Vision research**.
     
   - title: Lead Machine learning Engineer
     company: Omdena

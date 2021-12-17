@@ -1,13 +1,16 @@
 ---
-title: "RestHAR: Residual feature learning transformer for human activity recognition from multi-sensor data"
+title: "Sum rate maximization of D2D networks with energy constrained UAVs through deep unsupervised learning"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Benjamin Lea
 - admin
+- Omer Waqar
+- Jabed Tomal
 
-date: "2021-10-02T00:00:00Z"
+date: "2021-1-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,10 +23,10 @@ publishDate: "2021-10-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Presented at *8th Intl. Conference on Soft Computing & Machine Intelligence*
+publication: Presented at *IEEE UEMCON 2021, New York, USA*
 publication_short: ""
 
-abstract: "In recent times, surge in the use of smartphones in our daily lives has created a huge opportunity for paving the road towards human-centric computing by utilizing the rich data which gets recorded by it's multiple sensors. Sensor-based human activity recognition has a tremendous amount of real-world applications such as health monitoring, surveillance, smart homes, and ambient assisted living. This paper presents a joint residual feature extractor and a transformer-based deep neural network for end-to-end human activity recognition using raw multi-sensor data captured from smartphones or wearable devices. Unlike conventional handcrafted feature extraction, this approach outperforms all present approaches showing state-of-the-art generalizable performance over multiple benchmark datasets. It achieves a test accuracy of 95.2% on the UCI HAR dataset and 96.4% test accuracy on the WISDM dataset."
+abstract: "We consider a system model in which several energy harvesting (EH) unmanned aerial vehicles (UAVs), often known as drones, are deployed with device-to-device (D2D) communication networks. For the considered system model, we formulate an optimization problem that aims to find an optimal transmit power vector which maximizes the sum rate of the D2D network while also meets the minimum energy requirements of the UAVs. Because of the nature of the system model, it is necessary to deliver solutions in real time i.e., within a channel coherence time. As a result, conventional non-data-driven optimization methods are inapplicable, as either their run-time overheads are prohibitively expensive or their solutions are significantly suboptimal. In this paper, we address this problem by proposing a deep unsupervised learning (DUL) based hybrid scheme in which a deep neural network (DNN) is complemented by the full power scheme. It is shown through simulations that our proposed hybrid scheme provides up to 91% higher sum rate than an existing fully non-data driven scheme and our scheme is able to obtain solutions quite efficiently, i.e., within a channel coherence time."
 
 tags: []
 
@@ -40,7 +43,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1ipfiOwT1UD55o_9CjoFXtPxoL_wGDpxT/view?usp=sharing'
 url_source: ''
 url_video: ''
 

@@ -18,10 +18,10 @@ publishDate: "2021-10-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under review at *MMBD workshop, IEEE Big Data 2021*
+publication: Presented at *MMBD workshop, IEEE Big Data 2021*
 publication_short: ""
 
 abstract: "Hateful or offensive content has been increasingly common on social media platforms in recent years, and the problem is now widespread. There is a pressing need for effective automatic solutions for detecting such content, especially due to the gigantic size of social media data. Although significant progress has been made in the automated identification of offensive content, most of the focus has been on only using
