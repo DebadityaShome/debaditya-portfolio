@@ -42,7 +42,7 @@ experience:
     company_logo: cmu-logo
     location: Pennsylvania, USA
     date_start: '2021-09-17'
-    date_end: '2021-11-1'
+    date_end: '2021-11-01'
     description: |2-
         Overview:
 
