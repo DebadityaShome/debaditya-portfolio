@@ -83,7 +83,7 @@ experience:
     company_logo: bli-logo
     location: Assen, Netherlands
     date_start: '2021-04-01'
-    date_end: ''
+    date_end: '2021-11-01'
     description: |2-
       Overview:
 
