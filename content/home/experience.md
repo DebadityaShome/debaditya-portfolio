@@ -26,7 +26,7 @@ experience:
   - title: Graduate Research Assistant
       company: Ingenuity Labs & AIIM Lab
       company_url: 'https://ingenuitylabs.queensu.ca/'
-      company_logo: logo-ingenuity
+      company_logo: logo-shl
       location: Kingston, Canada
       date_start: '2022-09-01'
       date_end: 'Present'
