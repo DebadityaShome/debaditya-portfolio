@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Graduate research assistant
-    company: Ingenuity Labs
+    company: Ingenuity Labs & AIIM lab
     company_url: 'https://ingenuitylabs.queensu.ca/'
-    company_logo: logo-shl
+    company_logo: logo-ingenuity
     location: Kingston, Canada
     date_start: '2022-09-01'
     date_end: ''
