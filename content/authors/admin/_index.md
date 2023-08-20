@@ -6,12 +6,12 @@ title: Debaditya Shome
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate researcher experienced in AI / ML
+role: Graduate researcher experienced in AI / ML
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: KIIT University
-  url: https://kiit.ac.in/
+- name: Queen's University
+  url: https://www.queensu.ca//
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Self-supervised learning, Generative learning, Computer Vision and it's interplay with different modalities of data such as natural language and audio.
