@@ -29,6 +29,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: MASc in Artificial Intelligence
+    institution: Queen's University
+    year: September 2022 to Present
+    grade: 4.15
   - course: B.Tech in Electronics and Telecommunication
     institution: KIIT University
     year: July 2018 to July 2022
@@ -41,13 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:debadityashome9@gmail.com'
+  link: 'mailto:debaditya.shome@queensu.ca'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/debaditya_shome
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#  icon_pack: fas
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=93A99WMAAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -69,4 +73,4 @@ email: "debadityashome9@gmail.com"
 highlight_name: true
 ---
 
-Debaditya Shome is a final year undergraduate with extensive research experience in the field of AI. His present research interests include Self-supervised learning, Generative learning, Computer Vision and it's interplay with different modalities of data such as natural language and audio. Apart from research, he has experience in Data engineering and deploying Machine learning models at scale on cloud or serverless to integrate with real-world products/applications.
+I'm a graduate student pursuing MASc in AI (research) at Queen's University. My research interests include Generative models, Self-supervised learning, Multi-modality, and learning universal representations of time-series. I'm an author of 10+ publications, encompassing a total of 100+ citation. Apart from research, I have prior experience in Data engineering and deploying Machine learning models at scale on cloud/serverless to integrate with real-world products/applications.
