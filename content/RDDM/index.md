@@ -9,6 +9,17 @@ authors:
 - Pritam Sarkar
 - Ali Etemad
 
+type: landing
+
+# Your landing page sections - add as many different content blocks as you like
+sections:
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+
 main:
   - name: Pre-print
     url: https://arxiv.org/abs/2308.13568
