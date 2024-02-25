@@ -9,6 +9,5 @@ authors:
 - Pritam Sarkar
 - Ali Etemad
 
-links:
-[I'm an external link](https://www.google.com)
+external_link: https://www.google.com
 ---
