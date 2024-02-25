@@ -9,6 +9,4 @@ authors:
 - Pritam Sarkar
 - Ali Etemad
 
-links:
- - name: ARXIV
-   url: http://example.org
+[I'm an external link](https://www.google.com)
