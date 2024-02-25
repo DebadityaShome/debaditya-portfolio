@@ -8,4 +8,7 @@ authors:
 - admin
 - Pritam Sarkar
 - Ali Etemad
+
+links:
+[I'm an external link](https://www.google.com)
 ---
